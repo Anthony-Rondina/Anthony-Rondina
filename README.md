@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **SASS**
 
-- 👯 I’m looking to collaborate on [Atelier](https://atelier-collaboration.herokuapp.com/)
-
 - 👨‍💻 All of my projects are available at [https://anthonyrondina.netlify.app/#Home](https://anthonyrondina.netlify.app/#Home)
 
 - 💬 Ask me about **Any of my projects!**
