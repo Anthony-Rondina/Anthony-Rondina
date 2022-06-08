@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Rondina</h1>
 <h3 align="center">A passionate frontend developer from North Carolina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anthony-rondina&label=Profile%20views&color=0e75b6&style=flat" alt="anthony-rondina" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anthony-rondina&label=Profile%20views&color=0e75b6&style=flat" alt="anthony-rondina" /> </p>
 
 - 🔭 I’m currently working on [Choose-Your-Own-Adventure](https://ants-choose-your-own-adventure.herokuapp.com/)
 
