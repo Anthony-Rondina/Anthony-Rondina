@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anthony-rondina&label=Profile%20views&color=0e75b6&style=flat" alt="anthony-rondina" /> </p>
 
-- 🔭 I’m currently working on [Choose-Your-Own-Adventure](https://ants-choose-your-own-adventure.herokuapp.com/)
+- 🔭 I’m currently working on [Dog Breeding Site](https://github.com/Anthony-Rondina/puppysite)
 
 - 🌱 I’m currently learning **SASS**
 
